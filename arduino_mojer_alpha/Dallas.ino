@@ -1,6 +1,6 @@
  /////////////////////////////////////////////////////////////программа   датчиков DALAS 
 int DALASfunction(){
-byte i;
+byte i;////test
 byte present = 0;
 byte data[12];
 byte addr[8];
